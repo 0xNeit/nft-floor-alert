@@ -11,6 +11,9 @@
   "license": "MIT",
   "dependencies": {
     "ilog": "^1.2.3",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "sleep-promise": "^9.1.0",
     "urllib": "^2.38.0"
   },
   "devDependencies": {
