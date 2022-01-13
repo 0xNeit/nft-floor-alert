@@ -1,0 +1,19 @@
+{
+  "name": "nft-floor-alert",
+  "version": "0.1.0",
+  "description": "Push your NFTs floor price alert to your discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/_mocha --timeout 10000"
+  },
+  "repository": "git@github.com:DavidCai1993/nft-floor-alert.git",
+  "author": "David Cai <davidcai1993@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ilog": "^1.2.3",
+    "urllib": "^2.38.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
