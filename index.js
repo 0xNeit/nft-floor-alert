@@ -47,6 +47,8 @@ async function check () {
           await dc.sendAlert(content)
 
           floorPriceMap[collection] = []
+
+          break
         }
       }
     } catch (error) {
